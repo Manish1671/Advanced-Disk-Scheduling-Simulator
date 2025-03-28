@@ -49,7 +49,7 @@ npm start
 ```
 4️⃣ Open **`http://localhost:3000/`** in your browser.
 
-### 🖥 Command-line Execution (If Available)
+### 🖥 Command-line Execution 
 1️⃣ Navigate to the script directory.
 2️⃣ Run the Python script:
 ```sh
@@ -57,8 +57,7 @@ python disk_scheduler.py
 ```
 3️⃣ Follow the on-screen instructions to input parameters.
 
----![image](https://github.com/user-attachments/assets/6f55d624-b2f7-41a9-bb0e-25047b7ef0b1)
-![image](https://github.com/user-attachments/assets/756d308a-189f-4bba-b7d4-e1c2cff01d27)
+
 
 
 
@@ -70,7 +69,8 @@ python disk_scheduler.py
 ---
 
 ## 📸 Screenshots
-(Add relevant screenshots showcasing the interface and results.)
+---![image](https://github.com/user-attachments/assets/6f55d624-b2f7-41a9-bb0e-25047b7ef0b1)
+![image](https://github.com/user-attachments/assets/756d308a-189f-4bba-b7d4-e1c2cff01d27)
 
 ---
 
